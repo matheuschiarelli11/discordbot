@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/bot.js",
   "scripts": {
-    "test": "nodemon ."
+    "start": "nodemon ."
   },
   "keywords": [],
   "author": "Chiarelli",
@@ -12,6 +12,7 @@
   "dependencies": {
     "@discordjs/rest": "^2.3.0",
     "@discordjs/voice": "^0.17.0",
+    "@vercel/node": "^3.2.0",
     "discord-api-types": "^0.37.90",
     "discord-gamecord": "^4.4.2",
     "discord.js": "^14.15.3",
