@@ -1,0 +1,27 @@
+{
+  "name": "discbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "keywords": [],
+  "author": "Chiarelli",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "@discordjs/voice": "^0.17.0",
+    "discord-api-types": "^0.37.90",
+    "discord-gamecord": "^4.4.2",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "ffmpeg-static": "^5.2.0",
+    "tweetnacl": "^1.0.3",
+    "yt-search": "^2.11.0",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
