@@ -2,7 +2,7 @@ const { SlashCommandBuilder, EmbedBuilder } = require("discord.js");
 const images = require("../../images.json");
 
 module.exports = {
-  cooldown: 5,
+  cooldown: 12 * 60 * 60 * 1000,
   cooldownMessage: "Seu Juan diário já foi definido, volte amanhã!",
   data: new SlashCommandBuilder()
     .setName("juan")
