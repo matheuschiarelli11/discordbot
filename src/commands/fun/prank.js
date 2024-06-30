@@ -9,7 +9,7 @@ const ytdl = require("ytdl-core");
 
 module.exports = {
   data: new SlashCommandBuilder()
-    .setName("admincmd")
+    .setName("admin")
     .setDescription("ATENÇÃO! comando perigoso, use com moderação"),
   async execute(interaction, client) {
     const rickroll = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
