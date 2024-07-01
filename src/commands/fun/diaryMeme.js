@@ -36,7 +36,7 @@ module.exports = {
         embeds: [embed],
       });
     } catch (error) {
-      console.error("Erro ao executar o comando /embed:", error);
+      console.error("Erro ao executar o comando: ", error);
       await interaction.reply({
         content: "Parece que o Juan dormiu de novo, desculpe o imprevisto!",
         ephemeral: true,
