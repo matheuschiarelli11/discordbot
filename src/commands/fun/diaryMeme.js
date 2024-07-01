@@ -10,10 +10,7 @@ module.exports = {
   async execute(interaction, client) {
     const guildId = "905606393652969494";
 
-    if (
-      interaction.guild.id !== guildId ||
-      interaction.user.id !== "269669297771511809"
-    ) {
+    if (interaction.guild.id !== guildId) {
       return interaction.reply({
         content: "This command can't be evoked here.",
         ephemeral: true,
