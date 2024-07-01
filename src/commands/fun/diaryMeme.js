@@ -8,7 +8,7 @@ module.exports = {
     .setName("juan")
     .setDescription("Responde com uma imagem!"),
   async execute(interaction, client) {
-    const guildId = "905606393652969494";
+    const guildId = "551923084806979602";
 
     if (interaction.guild.id !== guildId) {
       return interaction.reply({
