@@ -24,7 +24,6 @@ module.exports = (client) => {
 
     const rest = new REST({ version: "9" }).setToken(process.env.token);
 
-    //talvez precise mudar para applicationCommands
     try {
       console.log("Started refreshing application (/) commands.");
       await rest.put(Routes.applicationCommands(clientId, guildId), {

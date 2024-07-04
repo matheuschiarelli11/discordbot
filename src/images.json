@@ -1,77 +1,82 @@
-[{
-    "title": "Juan Filosófico",
-    "description": "Acurado",
-    "imageURL":"https://pbs.twimg.com/media/GQ5BPyGW4AAXApI?format=jpg&name=small"
-},
-{
-    "title": "WE ARE JUAN",
-    "description": "Pericoso",
-    "imageURL":"https://pbs.twimg.com/media/GPLeEbeWAAAZiqA?format=jpg&name=small"
-},
-{
-    "title": "Juan Premium",
-    "description": "Ele pagou pra isso",
-    "imageURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMbKPOAhWcc8BL1TPhlWwhntA_0sT-Fo9QFBco5ugFrQpq2qhK86lXbBVSuHUG2VxiBk&usqp=CAU"
-},
-{
-    "title": "Juan Classico",
-    "description": "Basic horse",
-    "imageURL":"https://i.imgflip.com/4zppwa.jpg"
-},
-{
-    "title": "Juan Pedidos",
-    "description": "Foi aqui que pediram coquinha geladinha?",
-    "imageURL":"https://images3.memedroid.com/images/UPLOADED900/634efddf1728d.jpeg"
-},
-{
-    "title": "uɐnſ",
-    "description": "?ɐ̧ɔǝqɐɔ ɐns ɹɐɹı̣ʌ ɯǝs ɹǝן ǝnƃǝsuoƆ",
-    "imageURL":"https://images7.memedroid.com/images/UPLOADED627/61196885db533.jpeg"
-},
-{
-    "title": "Juan artificial",
-    "description": "Arte IA kkkkkkkk",
-    "imageURL":"https://images3.memedroid.com/images/UPLOADED532/652b13ea6155e.jpeg"
-},
-{
-    "title": "Juan Gasolinero",
-    "description": "Completa pra mim, cavalheiro?",
-    "imageURL":"https://i.pinimg.com/1200x/b6/1c/d9/b61cd986dff90a0f052d9e83c47e215a.jpg"
-},
-{
-    "title": "Juan de Chernobyl",
-    "description": "Tóxico porém diferenciado",
-    "imageURL":"https://images7.memedroid.com/images/UPLOADED280/62ae111bc545f.jpeg"
-},
-{
-    "title": "Juan retornado",
-    "description": "Ele voltou!",
-    "imageURL":"https://images3.memedroid.com/images/UPLOADED180/61f21a35e8fd3.jpeg"
-},
-
-{
-    "title": "Este não é o juan que você procura...",
-    "description": "𝖑⃤K⧽Ꮜ⧼R⧽ᏌKɘʜƚi|Ꙅ⧽Ꮜ⧼R⧽Ꮜɘʜƚi|ꙄK⧽Ꮜ⧼R⧽Ꮜvቻቻቹ",
-    "imageURL":"https://static.wikia.nocookie.net/the-uncanny-incredible/images/3/35/DusttaleImpostor_Phase_22.png/revision/latest/smart/width/250/height/250?cb=20231018112710"
-},
-{
-    "title": "Juan 404",
-    "description": "Juan não se encontra no momento!",
-    "imageURL":"https://i.pinimg.com/1200x/ae/00/4c/ae004c7ee14f68c0e576ac4d1ca4f2b7.jpg"
-},
-{
-    "title": "Juan de tróia",
-    "description": "Esse é bait",
-    "imageURL":"https://imgb.ifunny.co/images/8689ae3f70002f1c9930bcbecc018b08933a1c0785ca2cee52356712cf420448_1.jpg"
-},
-{
-    "title": "Juan esticado",
-    "description": "Esticado tipo sarsicha!",
-    "imageURL":"https://i1.sndcdn.com/artworks-000505069500-chvxk0-t500x500.jpg"
-},
-{
-    "title": "JUANe dos Santos",
-    "description": "Flip flaperson carpado pra cima!",
-    "imageURL":"https://i0.wp.com/media.tenor.com/images/e860242d4c92a3fe35e98f2f7449e148/tenor.gif"
-}
+[
+    {
+        "title": "Juan Filosófico",
+        "description": "Acurado",
+        "imageURL": "https://pbs.twimg.com/media/GQ5BPyGW4AAXApI?format=jpg&name=small"
+    },
+    {
+        "title": "WE ARE JUAN",
+        "description": "Pericoso",
+        "imageURL": "https://pbs.twimg.com/media/GPLeEbeWAAAZiqA?format=jpg&name=small"
+    },
+    {
+        "title": "Juan Premium",
+        "description": "Ele pagou pra isso",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMbKPOAhWcc8BL1TPhlWwhntA_0sT-Fo9QFBco5ugFrQpq2qhK86lXbBVSuHUG2VxiBk&usqp=CAU"
+    },
+    {
+        "title": "Juan Classico",
+        "description": "Basic horse",
+        "imageURL": "https://i.imgflip.com/4zppwa.jpg"
+    },
+    {
+        "title": "Juan Pedidos",
+        "description": "Foi aqui que pediram coquinha geladinha?",
+        "imageURL": "https://images3.memedroid.com/images/UPLOADED900/634efddf1728d.jpeg"
+    },
+    {
+        "title": "uɐnſ",
+        "description": "?ɐ̧ɔǝqɐɔ ɐns ɹɐɹı̣ʌ ɯǝs ɹǝן ǝnƃǝsuoƆ",
+        "imageURL": "https://images7.memedroid.com/images/UPLOADED627/61196885db533.jpeg"
+    },
+    {
+        "title": "Juan artificial",
+        "description": "Arte IA kkkkkkkk",
+        "imageURL": "https://images3.memedroid.com/images/UPLOADED532/652b13ea6155e.jpeg"
+    },
+    {
+        "title": "Juan Gasolinero",
+        "description": "Completa pra mim, cavalheiro?",
+        "imageURL": "https://i.pinimg.com/1200x/b6/1c/d9/b61cd986dff90a0f052d9e83c47e215a.jpg"
+    },
+    {
+        "title": "Juan de Chernobyl",
+        "description": "Tóxico porém diferenciado",
+        "imageURL": "https://images7.memedroid.com/images/UPLOADED280/62ae111bc545f.jpeg"
+    },
+    {
+        "title": "Juan retornado",
+        "description": "Ele voltou!",
+        "imageURL": "https://images3.memedroid.com/images/UPLOADED180/61f21a35e8fd3.jpeg"
+    },
+    {
+        "title": "Este não é o juan que você procura...",
+        "description": "𝖑⃤K⧽Ꮜ⧼R⧽ᏌKɘʜƚi|Ꙅ⧽Ꮜ⧼R⧽Ꮜɘʜƚi|ꙄK⧽Ꮜ⧼R⧽Ꮜvቻቻቹ",
+        "imageURL": "https://static.wikia.nocookie.net/the-uncanny-incredible/images/3/35/DusttaleImpostor_Phase_22.png/revision/latest/smart/width/250/height/250?cb=20231018112710"
+    },
+    {
+        "title": "Juan 404",
+        "description": "Juan não se encontra no momento!",
+        "imageURL": "https://i.pinimg.com/1200x/ae/00/4c/ae004c7ee14f68c0e576ac4d1ca4f2b7.jpg"
+    },
+    {
+        "title": "Juan de tróia",
+        "description": "Esse é bait",
+        "imageURL": "https://imgb.ifunny.co/images/8689ae3f70002f1c9930bcbecc018b08933a1c0785ca2cee52356712cf420448_1.jpg"
+    },
+    {
+        "title": "Juan esticado",
+        "description": "Esticado tipo sarsicha!",
+        "imageURL": "https://i1.sndcdn.com/artworks-000505069500-chvxk0-t500x500.jpg"
+    },
+    {
+        "title": "JUANe dos Santos",
+        "description": "Flip flaperson carpado pra cima!",
+        "imageURL": "https://i0.wp.com/media.tenor.com/images/e860242d4c92a3fe35e98f2f7449e148/tenor.gif"
+    },
+    {
+        "title": "Será o Juan?",
+        "description": "A dúvida fica no ar!",
+        "imageURL": "https://img.wattpad.com/a8830ee99b76830475c5a280c9f042e618bfb035/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f52365546442d764b57485a5959513d3d2d3936353137333438302e3136336363393134376235303737306635353535303739303532312e6a7067?s=fit&w=720&h=720"
+    }
 ]

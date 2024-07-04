@@ -6,7 +6,6 @@ module.exports = {
   async execute(client) {
     console.log(`${client.user.tag} is logged in and online`);
 
-    // Configurando o keep-alive
     setInterval(() => {
       fetch("https://discordbot-tjld.onrender.com")
         .then((res) => res.text())
