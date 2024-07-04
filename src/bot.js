@@ -1,6 +1,7 @@
 require("dotenv").config();
 const { token } = process.env;
 const { Client, Collection, GatewayIntentBits } = require("discord.js");
+const express = require('express')
 /*
 Client: É a classe principal que representa o bot Discord
 Collection: Estrutura que armazena comandos e outros tipos de dados

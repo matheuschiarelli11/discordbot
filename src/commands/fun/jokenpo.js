@@ -1,6 +1,7 @@
 const { RockPaperScissors } = require("discord-gamecord");
 const { SlashCommandBuilder, ButtonStyle } = require("discord.js");
 
+
 module.exports = {
   data: new SlashCommandBuilder()
     .setName("jokenpo")
